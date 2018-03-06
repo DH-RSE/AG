@@ -1,2 +1,5 @@
-# AG
-Repository zur Organisation der AG-Arbeit: Ideen/Vorschläge/Konkretes per Issue/Pull Request
+# AG "Research Software Engineering in den Digital Humanities (DH-RSE)" in der DHd
+
+Dieses Repository dient gemeinsam mit der Mailingliste (https://mailman.bbaw.de/mailman/listinfo/ag-dhrse) als erste Anlaufstelle für die Kollaboration innerhalb der AG.
+
+Ideen, Vorschläge, konkrete Arbeiten können hier als [Issue](https://github.com/DH-RSE/AG/issues) vorgestellt und diskutiert werden, die konkrete Kollaboration erfolgt per Pull Request.
